@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nelson Mandela</title>
+
+            <!-- Internal css below -->
+
+        <style>
+
+            /* Styling the body and margin */
+
+            body {
+                background-color: rgb(99, 3, 3);
+                color: seashell;
+                margin: 13%;
+            }
+
+            /* Styling and giving shadows to the title */
+
+            #title {
+                text-align: center;
+                text-shadow: 5px 5px 10px white;
+                font-size: 7vh;
+            }
+
+            #img {
+                display: inline-block;
+                size: 50%;
+            }
+
+            h1 #OkayAfrica {
+                text-align: center;
+            }
+
+            h3 a:hover {
+                color: snow;
+            }
+
+
+        </style>
+
+</head>
+
+<body>
+    
+    <div>
+
+        <img src="egedegbeernest_whitelogo.png" alt="egedegbeernest_whitelogo">
+
+    </div>
+
+    <h1 id="title">
+        Nelson Mandela
+    </h1>
+
+        <prev id="quote">
+            <small>
+                <q>
+            Rest in Peace Nelson Mandela. The World has lost a hero. 
+            The Honorable Mandela has died at the age of 95. 
+            We respect Mandela's passion and love for humanity.
+                </q>  
+            </small>
+        </prev>
+
+        <br> <br>
+    
+    <div id="img">
+
+        <img src="mandela_billboard.jpg">
+        
+    </div>
+
+    <p>
+
+       <h1 id="OkayAfrica"> Okayafrica offers a Nelson Mandela 
+           tribute to the revolutionary leader 
+        with the books he read and the speeches he made.
+       </h1>
+
+It goes without saying that Nelson Mandela 
+has straddled the half century like a colossus. <br><br>
+
+Born in Transkei, South Africa on July 18, 1918, 
+Mandela rose to international prominence 
+as part of the African National Congress (ANC) 
+fighting the white South African government's apartheid system. <br><br>
+
+From his imprisonment in 1962, to the 27 years 
+he spent in prison for his resistance to the 
+National Party's apartheid policies, 
+to the 1994 ANC election victory which made him 
+South Africa's first black president, 
+the highlights of Mandela's biography are well-known. <br><br>
+
+But he was not always the kindly elder statesman. 
+In A Long Walk to Freedom, 
+Mandela outlined his struggle to convince 
+ANC leaders that it was right to include violent resistance 
+among its tactics: "[we] had contended that for the 
+ANC nonviolence was an inviolate principle, 
+not a tactic to be changed as conditions warranted. <br><br>
+
+I myself believed precisely the opposite: 
+that nonviolence was a tactic that should 
+be abandoned when it no longer worked." 
+His commitment to the struggle for justice 
+and an end to white supremacy in South Africa 
+made him a treasonous traitor in the eyes 
+of the National Party, and Western Bloc leaders 
+like Ronald Reagan and Margaret Thatcher 
+dubbed him a terrorist, a fact which may well be 
+glossed over in the coming days as today's 
+statesmen pour out their tributes. <br><br>
+
+Here, we remember Mandela, the revolutionary who, 
+at his April 1964 speech at Rivonia, declared:
+“During my lifetime I have dedicated myself 
+to this struggle of the African people. 
+I have fought against white domination, 
+and I have fought against black domination. 
+I have cherished the ideal of a democratic and 
+free society in which all persons live together 
+in harmony and with equal opportunities. <br><br>
+
+It is an ideal which I hope to live for and to achieve. 
+But if needs be, it is an ideal for which 
+I am prepared to die.” <br><br>
+
+<!-- As part of this reflection on Mandela's profound political, ethical, and intellectual legacy, 
+we've put together a slideshow of some of the authors and books he read during his formative years 
+and as an inmate on Robben Island, where books were forbidden and reading was done in secret. 
+Click through the slideshow above to see the texts that inspired Mandela's revolutionary passion. -->
+
+    </p>
+
+    <hr>
+
+   <h3> Reference </h3>
+
+    <a id=tribute-nelson href="https://www.okayafrica.com/nelson-mandela-tribute-revolutionary/">
+
+       [ <strong> Designed by Egedegbe Ernest <i> (Ernie) </i> </strong> ]
+
+    </a>
+
+</body>
+</html>
